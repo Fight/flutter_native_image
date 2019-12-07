@@ -4,19 +4,19 @@ PODS:
     - Flutter
 
 DEPENDENCIES:
-  - Flutter (from `Pods/.symlinks/flutter/ios-release`)
+  - Flutter (from `Pods/.symlinks/flutter/ios`)
   - flutter_native_image (from `Pods/.symlinks/plugins/flutter_native_image/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
-    :path: Pods/.symlinks/flutter/ios-release
+    :path: Pods/.symlinks/flutter/ios
   flutter_native_image:
     :path: Pods/.symlinks/plugins/flutter_native_image/ios
 
 SPEC CHECKSUMS:
-  Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296
-  flutter_native_image: 3d9f735f47bf8af7dea28056bf90c03ad4ce531b
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_native_image: 9c0b7451838484458e5b0fae007b86a4c2d4bdfe
 
 PODFILE CHECKSUM: 0420ab312a523ae0eecfb1fc19ea51dd82cc17c7
 
-COCOAPODS: 1.4.0
+COCOAPODS: 1.8.4
